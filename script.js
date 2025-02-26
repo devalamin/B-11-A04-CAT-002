@@ -110,9 +110,4 @@ function calculateSleepTime(times) {
     return finalTime;
 };
 
-const sleepTie = [5600]
-
-const output = calculateSleepTime(sleepTie)
-console.log(output);
-
 
